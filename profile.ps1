@@ -1,7 +1,7 @@
 # Profile.ps1 (your personal customizations)
 
 # Point updater to YOUR fork (must use raw URL)
-$repo_root_Override = "https://raw.githubusercontent.com/ja-wee/mypows-profile"
+$repo_root_Override = "https://raw.githubusercontent.com/ja-wee"
 
 # Update interval (days)
 $updateInterval_Override = 7
